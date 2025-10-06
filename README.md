@@ -1,6 +1,6 @@
 # LoRaWAN Path Loss Prediction with Boosting Machine Learning Algorithms
 
-## Project Overview
+## Overview
 
 This repository contains the MATLAB implementation for the models and experiments described in the research paper: **"Enhancing LoRaWAN Performance Using Boosting Machine Learning Algorithms Under Environmental Variations"**.
 
