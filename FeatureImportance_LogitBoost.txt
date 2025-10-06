@@ -1,4 +1,0 @@
-Feature: temperature, Importance: 3.5977
-Feature: rh, Importance: 2.2880
-Feature: bp, Importance: 35.1825
-Feature: pm2_5, Importance: 9.5646

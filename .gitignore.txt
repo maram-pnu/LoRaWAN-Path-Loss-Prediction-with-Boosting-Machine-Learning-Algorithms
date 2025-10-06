@@ -6,8 +6,5 @@
 
 # Ignore all output CSV files
 *.csv
-
-# --- EXCEPTION EXAMPLE ---
-# If you have an INPUT data file you want to KEEP, you can make an exception.
-# For example, to keep a file named "my_input_data.csv", add this line:
-# !my_input_data.csv
+*.xls
+*.txt
